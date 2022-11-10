@@ -1,0 +1,19 @@
+Options for documentation:
+ - Storing it on this commupter
+ - Shared folder on the linux server
+ - Shared folder on Onedrive
+ - Shared folder on Google Drive
+
+Ideas for getting the information to plug into the machine learning algorithm:
+ - Have the program capture groups of data at a time
+ - Then try to start capturing when the person is starting to think up.
+ - Then stop when the person is stopping thinking up. (Or approximately)
+ - Or have the machine learning capture like a minute of data and then have the machine recognize the paturns in that and label them as say "up".
+ - Probably this one ^ 
+
+Note, the machine_learning_teacher.py Should be able to 
+
+Possible options for machine learning algorithms: 
+ - Tensor Flow
+ - PyTorch (for Python)
+   - https://pytorch.org/tutorials/beginner/pytorch_with_examples.html?source=post_page---------------------------#:~:text=Learning%20PyTorch%20with%20Examples%201%20Tensors%20Warm-up%3A%20numpy,You%20can%20browse%20the%20above%20examples%20here.%20
